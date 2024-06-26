@@ -1,0 +1,10 @@
+{
+	"src": "examples",
+	"bin": "bin",
+	"build": "build",
+	"vapor": ".",
+	"programs": {
+		"swirl1d": {
+		}
+	}
+}
